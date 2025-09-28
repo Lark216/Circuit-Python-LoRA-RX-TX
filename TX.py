@@ -1,6 +1,4 @@
 # This was originally created by Dygear
-
-
 #Remae to code.py on the TX side feather board
 
 import os
