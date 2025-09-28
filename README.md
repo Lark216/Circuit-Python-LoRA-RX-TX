@@ -43,7 +43,4 @@ It includes both **transmitter (TX)** and **receiver (RX)** examples. The transm
 - **TX Mode:** Sends GPS data (or test strings if GPS not fixed) over LoRa.  
 - **RX Mode:** Listens for LoRa packets and prints received messages to the REPL/serial console.  
 
----
 
-## Example Output
-**TX (GPS):**
