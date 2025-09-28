@@ -1,5 +1,5 @@
 # CircuitPython LoRa RX / TX
----
+
 code originally created by Dygear
 ---
 This project demonstrates LoRa communication using **CircuitPython** on the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) with the [RFM95 LoRa Radio (915 MHz)](https://www.adafruit.com/product/3072) — RadioFruit edition with STEMMA QT support.  
