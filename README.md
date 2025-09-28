@@ -1,6 +1,7 @@
 # CircuitPython LoRa RX / TX
-code originally created by Dygea
-
+---
+code originally created by Dygear
+---
 This project demonstrates LoRa communication using **CircuitPython** on the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) with the [RFM95 LoRa Radio (915 MHz)](https://www.adafruit.com/product/3072) — RadioFruit edition with STEMMA QT support.  
 
 It includes both **transmitter (TX)** and **receiver (RX)** examples. The transmitter setup integrates GPS data using the [Adafruit Ultimate GPS FeatherWing (PA1616D)](https://www.adafruit.com/product/3133), allowing location information to be sent over LoRa.  
